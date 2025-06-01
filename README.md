@@ -1,4 +1,4 @@
-# Demo Project: Deploying MongoDB and Mongo Express on Kubernetes
+# Deploying MongoDB and Mongo Express on Kubernetes
 
 This project demonstrates how to deploy a MongoDB database along with Mongo Express, a web-based MongoDB admin interface, in a Kubernetes environment. It covers essential Kubernetes concepts including Pods, Services, Secrets, Deployments, and ConfigMaps.
 

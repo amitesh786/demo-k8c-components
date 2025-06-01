@@ -54,9 +54,9 @@ A Kubernetes Service of type `NodePort` or `LoadBalancer` is used to expose Mong
     - Use the `docker` driver for `minikube` by simply running `minikube` start without specifying the driver
     - Simple installation guide for [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
-## 🧑‍💻 Developer Setup
+## Developer Setup
 - Clone the repository:
-- git clone ``
+- git clone `https://github.com/amitesh786/demo-k8c-components`
 
-## 👨‍💻 Author Amitesh Singh – [GitHub](https://github.com/amitesh786)
-- Feel free to contribute or suggest improvements! 🙌
+## Author Amitesh Singh – [GitHub](https://github.com/amitesh786)
+- Feel free to contribute or suggest improvements!

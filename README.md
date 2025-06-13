@@ -49,8 +49,8 @@ A Kubernetes Service of type `NodePort` or `LoadBalancer` is used to expose Mong
 - If using `LoadBalancer`, get the external IP:
     - `kubectl get svc mongo-express-service`
 
-## troubleshooting
-- Issue mongo-express or mongo-db pods not starting or giving an error
+## Troubleshooting
+- Issue `mongo-express` or `mongo-db` pods not starting or giving an error
     - Use the `docker` driver for `minikube` by simply running `minikube` start without specifying the driver
     - Simple installation guide for [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
@@ -58,5 +58,6 @@ A Kubernetes Service of type `NodePort` or `LoadBalancer` is used to expose Mong
 - Clone the repository:
 - git clone `https://github.com/amitesh786/demo-k8c-components`
 
-## Author Amitesh Singh – [GitHub](https://github.com/amitesh786)
+## Author 
+- Amitesh Singh – [GitHub](https://github.com/amitesh786)
 - Feel free to contribute or suggest improvements!
